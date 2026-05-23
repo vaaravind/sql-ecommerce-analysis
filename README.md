@@ -163,7 +163,7 @@ sql-ecommerce-analysis/
 ├── 13-recommended-sla-by-state.png.jpg
 ├── 14-seller-health-score.png.jpg
 └── 15-executive-kpi-summary.png.jpg
-```
+
 ```
 ---
 
