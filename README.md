@@ -147,23 +147,22 @@ sql-ecommerce-analysis/
 ├── analysis.sql
 ├── cleanup.sql
 │
-├── data/
-│   └── monthly_orders.csv
-│
 └── results/
-    ├── 01_top_revenue_categories.png
-    ├── 02_average_order_value_by_state.png
-    ├── 03_monthly_order_trend.png
-    ├── 04_seller_cancellation_rate.png
-    ├── 05_delivery_time_by_state.png
-    ├── 06_late_vs_ontime_delivery.png
-    ├── 07_payment_method_distribution.png
-    ├── 08_customer_review_impact.png
-    ├── 09_late_delivery_by_category.png
-    ├── 10_freight_cost_analysis.png
-    ├── 11_recommended_sla_by_state.png
-    ├── 12_seller_health_score.png
-    └── 13_executive_kpi_summary.png
+    ├── 01-top-product-categories.png
+    ├── 02-average-order-value-by-state.png
+    ├── 03-monthly-order-trend.png
+    ├── 04-seller-cancellation-rate.png
+    ├── 05-average-delivery-time-by-state.png
+    ├── 06-late-vs-on-time-delivery.png
+    ├── 07-payment-method-distribution.png
+    ├── 08-top-revenue-categories.png
+    ├── 09-category-delivery-performance.png
+    ├── 10-freight-cost-analysis.png
+    ├── 11-late-delivery-by-category.png
+    ├── 12-freight-tier-late-delivery.png
+    ├── 13-recommended-sla-by-state.png
+    ├── 14-seller-health-score.png
+    └── 15-executive-kpi-summary.png
 ```
 ---
 
