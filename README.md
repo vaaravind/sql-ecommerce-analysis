@@ -138,6 +138,7 @@ These figures come from P3, the executive summary query at the end of analysis.s
 ## Repository Structure
 
 ```text
+```text
 sql-ecommerce-analysis/
 │
 ├── README.md
@@ -147,22 +148,22 @@ sql-ecommerce-analysis/
 ├── analysis.sql
 ├── cleanup.sql
 │
-└── results/
-    ├── 01-top-product-categories.png
-    ├── 02-average-order-value-by-state.png
-    ├── 03-monthly-order-trend.png
-    ├── 04-seller-cancellation-rate.png
-    ├── 05-average-delivery-time-by-state.png
-    ├── 06-late-vs-on-time-delivery.png
-    ├── 07-payment-method-distribution.png
-    ├── 08-top-revenue-categories.png
-    ├── 09-category-delivery-performance.png
-    ├── 10-freight-cost-analysis.png
-    ├── 11-late-delivery-by-category.png
-    ├── 12-freight-tier-late-delivery.png
-    ├── 13-recommended-sla-by-state.png
-    ├── 14-seller-health-score.png
-    └── 15-executive-kpi-summary.png
+├── 01-top-product-categories.png.jpg
+├── 02-average-order-value-by-state.png.jpg
+├── 03-monthly-order-trend.png.jpg
+├── 04-seller-cancellation-rate.png.jpg
+├── 05-average-delivery-time-by-state.png.jpg
+├── 06-late-vs-on-time-delivery.png.jpg
+├── 07-payment-method-distribution.png.jpg
+├── 08-top-revenue-categories.png.jpg
+├── 09-category-delivery-performance.png.jpg
+├── 10-freight-cost-analysis.png.jpg
+├── 11-late-delivery-by-category.png.jpg
+├── 12-freight-tier-late-delivery.png.jpg
+├── 13-recommended-sla-by-state.png.jpg
+├── 14-seller-health-score.png.jpg
+└── 15-executive-kpi-summary.png.jpg
+```
 ```
 ---
 
