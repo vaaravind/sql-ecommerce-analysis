@@ -138,7 +138,6 @@ These figures come from P3, the executive summary query at the end of analysis.s
 ## Repository Structure
 
 ```text
-```text
 sql-ecommerce-analysis/
 │
 ├── README.md
@@ -163,8 +162,8 @@ sql-ecommerce-analysis/
 ├── 13-recommended-sla-by-state.png.jpg
 ├── 14-seller-health-score.png.jpg
 └── 15-executive-kpi-summary.png.jpg
-
 ```
+
 ---
 
 SETUP INSTRUCTIONS
